@@ -1,6 +1,6 @@
 # projects
 
-check out my website! [octantes.ar](octantes.github.io) is a multimedia portal where I weave spells and write about them
+check out my website! [octantes.ar](https://octantes.github.io/) is a multimedia portal where I weave spells and write about them
 
 - [arch-hud](https://github.com/octantes/arch-hud) is a minimal, suckless based, suite of tools and scripts for arch linux
 - [trackwithslate](https://github.com/octantes/trackwithslate) is a tiny and local csv based tabular data managment tool
