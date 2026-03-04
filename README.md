@@ -17,4 +17,4 @@ I like to build small, fully local tools that use the browser's native APIS and 
 
 ## WIP
 
-- [blackbook](upcoming) is an upcoming project that combines multiple of these local tools in an infinite canvas interface connecting md, csv and json
+- [blackbook](upcoming) is an upcoming project that combines multiple of these local tools in an infinite canvas ui connecting md, csv and json
