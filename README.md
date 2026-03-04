@@ -14,4 +14,8 @@ I like to build small, fully local tools that use the browser's native APIS and 
 
 - [trackwithslate](https://github.com/octantes/trackwithslate) is a tiny and local csv based tabular data managment and tracking tool.
 - [shadewithseal](https://github.com/octantes/shadewithseal) is a tiny and local glsl shader playground for webgl with indexed storage.
+- [blackbook](upcoming) is an upcoming project that combines multiple of these local future proof tools in an infinite canvas interface.
 
+## WIP
+
+- blackbook is an upcoming project that combines multiple of these local tools in an infinite canvas interface connecting md, csv and json
