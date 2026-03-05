@@ -10,6 +10,7 @@ Also, you can find my [arch-hud](https://github.com/octantes/arch-hud) setup her
 
 I like to build small, fully local tools that use the browser's native APIS and features to reduce dependancy complexity and allow for privacy while still providing a good interface and experience. I think there's still an unexplored space between scripting and building complex ui for solving small problems. Some of them are uploaded here, distributed as plain html files, and some I've yet to upload. 
 
+- [matrix-kernel](https://gist.github.com/octantes/7d9ab4353f3fe3fc2ce265e498bdbf09) is an easily modifiable toolbox inside a bookmarklet, structured like a kernel
 - [trackwithslate](https://github.com/octantes/trackwithslate) is a tiny and local csv based tabular data managment and tracking tool
 - [shadewithseal](https://github.com/octantes/shadewithseal) is a tiny and local glsl shader playground for webgl with indexed storage
 - [browsewithscroll](https://github.com/octantes/browsewithscroll) is a tiny and local media and font preview tool based around scrolling
