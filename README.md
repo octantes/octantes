@@ -4,7 +4,7 @@ Check out my website! [octantes](https://octantes.github.io/) is a multimedia po
 
 Also, you can find my [arch-hud](https://github.com/octantes/arch-hud) setup here - a minimal (suckless based) suite of tools, configs and scripts for arch linux (still WIP).
 
-<p align="center"> <img src="software.png" alt="software"> </p>
+<p align="center"> <img src="softwares.png" alt="softwares"> </p>
 
 ## projects
 
