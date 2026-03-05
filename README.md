@@ -6,7 +6,7 @@ Also, you can find my [arch-hud](https://github.com/octantes/arch-hud) setup her
 
 <p align="center"> <img src="softwares.png" alt="softwares"> </p>
 
-## projects
+## local web tools
 
 I like to build small, fully local tools that use the browser's native APIS and features to reduce dependancy complexity and allow for privacy while still providing a good interface and experience. I think there's still an unexplored space between scripting and building complex ui for solving small problems. Some of them are uploaded here, distributed as plain html files, and some I've yet to upload. 
 
@@ -14,6 +14,6 @@ I like to build small, fully local tools that use the browser's native APIS and 
 - [shadewithseal](https://github.com/octantes/shadewithseal) is a tiny and local glsl shader playground for webgl with indexed storage
 - [browsewithscroll](https://github.com/octantes/browsewithscroll) is a tiny and local media and font preview tool based around scrolling
 
-## WIP
+## bigger projects
 
 - [blackbook](https://github.com/octantes/blackbook) is an upcoming project that combines multiple of these local tools in an infinite canvas ui connecting md, csv and json
