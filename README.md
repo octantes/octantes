@@ -1,6 +1,6 @@
 # octantes
 
-Check out my website! [octantes](https://octantes.github.io/) is a multimedia portal where you can see how I weave my spells and write about them. You might find it's [repo](https://github.com/octantes/octantes.github.io) interesting for a GH Page setup, a custom SPA + SSG blend with hidration built on vue. The system recieves markdown files and creates html that is then pulled by the router into a vue component.
+Check out my website! [octantes](https://octantes.github.io/) is a multimedia portal where you can see how I weave my spells and write about them. You might find its [repo](https://github.com/octantes/octantes.github.io) interesting for a GH Page setup, a custom SPA + SSG blend with hidration built on vue. The system recieves markdown files and creates html that is then pulled by the router into a vue component.
 
 Also, you can find my [arch-hud](https://github.com/octantes/arch-hud) setup here - a minimal (suckless based) suite of tools, configs and scripts for arch linux (still WIP).
 
