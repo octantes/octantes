@@ -17,4 +17,5 @@ I like to build small, fully local tools that use the browser's native APIS and 
 
 ## bigger projects
 
+- [workwithnav](https://github.com/octantes/workwithnav) is currently my main project, where I unified all my small tools in a single local dashboard, using pure js, html and css
 - [blackbook](https://github.com/octantes/blackbook) is an upcoming project that combines multiple of these local tools in an infinite canvas ui connecting md, csv and json
